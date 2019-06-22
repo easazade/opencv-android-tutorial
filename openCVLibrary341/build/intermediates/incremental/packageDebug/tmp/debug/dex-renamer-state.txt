@@ -1,4 +1,0 @@
-#Sat Jun 22 11:55:37 IRDT 2019
-base.0=C\:\\workspace\\android\\android-vision-master\\visionSamples\\OpenCVTut\\openCVLibrary341\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex

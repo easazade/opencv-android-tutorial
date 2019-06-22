@@ -1,4 +1,4 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
@@ -7,7 +7,7 @@ android {
     defaultConfig {
         minSdkVersion 17
         targetSdkVersion 28
-        applicationId "org.opencv"
+//        applicationId "org.opencv"
     }
 
     buildTypes {
